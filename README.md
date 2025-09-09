@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LMS-Admin-Signup-KYC-Verification
 =======
 # LMS Admin Signup & KYC — Frontend (Next.js + TypeScript + Tailwind)
@@ -17,4 +17,5 @@ It uses dummy APIs (console-based) — no backend is included. The project demon
 3. Open `http://localhost:3000/register`
 
 Note: this repository uses Tailwind. The API functions are in `lib/api.ts` — they only `console.log` and simulate delays.
->>>>>>> b0ab1a7 (first commit)
+
+
