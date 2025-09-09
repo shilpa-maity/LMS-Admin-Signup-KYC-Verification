@@ -16,5 +16,7 @@ It uses dummy APIs (console-based) — no backend is included. The project demon
 
 Note: this repository uses Tailwind. The API functions are in `lib/api.ts` — they only `console.log` and simulate delays.
 
+<img width="557" height="743" alt="image" src="https://github.com/user-attachments/assets/0206f994-bd2f-447e-9d90-389251bff686" />
+
 
 
